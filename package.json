@@ -1,0 +1,22 @@
+{
+  "name": "massdm-bot",
+  "version": "1.0.0",
+  "description": "made by @kazion#1337",
+  "main": "dmall.js",
+  "dependencies": {
+    "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    "discord.js": "11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dmall.js"
+  },
+  "keywords": [],
+  "author": "cex",
+  "license": "ISC"
+}
