@@ -8,4 +8,4 @@ friend @kazion#2372 if you need help
 2) set the prefix to whatever you want 
 3) run the bot and execute the cmd and massdm whatever you want 
 example: 
-`$dm join https://discord.gg/pfp`
+`$dm join https://discord.gg/pfps`
